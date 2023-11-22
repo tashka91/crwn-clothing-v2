@@ -9,7 +9,7 @@ const Directory = ({directories}) => {
         <CategoryItem category={directory} key={directory.id}/>
         )) }
     </div>
-    )
+    );
 
 }
 export default Directory;

@@ -10,6 +10,6 @@ const CategoryItem = ({category}) => {
           <p>Shop Now</p>
         </div>
     </div>
-    )
+    );
 }
 export default CategoryItem;
